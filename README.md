@@ -4,5 +4,5 @@ Repositorio creado para almacenar los archivos y documentos grupales del diploma
 
 ### Integrantes:
 > 1. Jorge Eduardo Rondón Ruiz
-> 2.
+> 2. Sebastián Rubio Jiménez
 > 3.
